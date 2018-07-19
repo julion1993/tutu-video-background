@@ -1,4 +1,4 @@
-package com.julion.tutu.vedio;
+package com.julion.tutu.video;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
